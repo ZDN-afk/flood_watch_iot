@@ -154,4 +154,4 @@ ANOMALY_PROBABILITY = 0.15   # WaterLevelSensor: 15% kemungkinan spike
 | Vivien Silvany | 24051130208 | Implementasi Observer Pattern dan sistem distribusi peringatan |
 | Muhammad Zaidaan | 24051130110 | Implementasi Strategy Pattern, Decorator Pattern, Message Broker, pengelolaan repositori GitHub, dan penyusunan dokumentasi README |
 | Muhammad Fachry Ardiakusuma | 24051130111 | Implementasi pipeline pemrosesan data dan Decorator Pattern |
-*Dibangun sebagai Proof of Concept — tidak menggunakan database atau API eksternal nyata.*
+
